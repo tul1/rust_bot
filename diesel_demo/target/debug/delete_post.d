@@ -1,0 +1,1 @@
+/home/tul1/rust_bot/diesel_demo/target/debug/delete_post: /home/tul1/rust_bot/diesel_demo/src/bin/delete_post.rs /home/tul1/rust_bot/diesel_demo/src/lib.rs /home/tul1/rust_bot/diesel_demo/src/models.rs /home/tul1/rust_bot/diesel_demo/src/schema.rs
